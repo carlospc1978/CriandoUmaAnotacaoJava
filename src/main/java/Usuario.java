@@ -7,7 +7,7 @@ public class Usuario {
     private String nome;
     private String cpf;
 
-    @IdadeMinima(valor=18)
+    @Anos(valor=18)
     private LocalDate dataNascimento;
 
     public Usuario(LocalDate dataNascimento) {

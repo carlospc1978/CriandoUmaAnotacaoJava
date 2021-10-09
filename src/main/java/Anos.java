@@ -5,6 +5,6 @@ import java.lang.annotation.Target;
 
 @Target(ElementType.FIELD) //@Target - Aqui passaremos os elementos que podem ser anotados com essa anotação.
 @Retention(RetentionPolicy.RUNTIME) //Aqui nós falaremos para a nossa aplicação até quando nossa anotação estará disponível.
-public @interface IdadeMinima {
+public @interface Anos {
     int valor();
 }
