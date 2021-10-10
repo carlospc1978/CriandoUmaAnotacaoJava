@@ -1,5 +1,7 @@
 Vamos criar uma @Anotação em Java
 
+status do projeto.: <font color=red><b>não concluido</b></font>
+
 cenário proposto.:<br>
 Ao entrar em uma festa, duas condições precisam ser observadas:<br>
 1° só maiores de idade entram<br>
