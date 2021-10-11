@@ -3,9 +3,13 @@ import java.lang.reflect.Field;
 import java.time.LocalDate;
 import java.time.Month;
 import java.time.Period;
+import java.util.HashSet;
 
 public class Principal {
     public static void main(String[] args) {
+
+
+
 
         String ano_que_o_cidadão_nasceu = JOptionPane.showInputDialog("Ano que o cidadão nasceu\nexemplo.: 1980");
 
